@@ -7,8 +7,8 @@ This TorMatrix repository was created for the following purposes:
 TorMatrix is not affiliated in any way with Vector.IM, TOR, Matrix, Orbot or any of the software authors referenced in the document. It is merely a dirty (but working) solution for those who just need a quick and simple way to create a community that is outside the clear web.
 
 ## TorMatrix for Android
-- ### DOWNLOAD THE UNIVERSAL APK FROM HERE
-- Alternative APK versions: arm64, armeabi, x86, x86-64
+- ### [DOWNLOAD THE UNIVERSAL APK FROM HERE](https://mega.nz/file/yIJnUZpT#EDeK4phU6ff7c0TN3no1ZDLtWyiwTlYhKp9ynsu6m8c)
+- Alternative APK versions: [arm64](https://mega.nz/file/bcJ0FaRC#ltubT1G-vtXNnRf4qoXpcke2SWg8w3G1tUx6n5OuANo), [armeabi](https://mega.nz/file/SABFHADD#Z_0SqGvTn_IW-m3eIhpFz7b_5ipOXT_eEJJ03V8K2dQ), [x86](https://mega.nz/file/aAoyhCqJ#Y_LH9tjEbqgz4PFNWIGatCvl2q5kzmuGGDSoIPsnOAI), [x86-64](https://mega.nz/file/2RIzHYQB#wDlGyULJ_QfWUEfgV8G66SRukoLtzKUZSImDdBljzUk)
 - Note: you don't have to use this altered version of Element to connect to the TorMatrix server. But it is highly recommended.
 
 ## Element? Matrix? Tor? Orbot? What are these?
