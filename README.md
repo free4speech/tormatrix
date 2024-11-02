@@ -6,7 +6,7 @@ This TorMatrix repository was created for the following purposes:
 
 TorMatrix is not affiliated in any way with Vector.IM, TOR, Matrix, Orbot or any of the software authors referenced in the document. It is merely a dirty (but working) solution for those who just need a quick and simple way to create a community that is outside the clear web.
 
-## TorMatrix for Android
+## Download TorMatrix for Android
 - ### [DOWNLOAD THE UNIVERSAL APK FROM HERE](https://mega.nz/file/yIJnUZpT#EDeK4phU6ff7c0TN3no1ZDLtWyiwTlYhKp9ynsu6m8c)
 - Alternative APK versions: [arm64](https://mega.nz/file/bcJ0FaRC#ltubT1G-vtXNnRf4qoXpcke2SWg8w3G1tUx6n5OuANo), [armeabi](https://mega.nz/file/SABFHADD#Z_0SqGvTn_IW-m3eIhpFz7b_5ipOXT_eEJJ03V8K2dQ), [x86](https://mega.nz/file/aAoyhCqJ#Y_LH9tjEbqgz4PFNWIGatCvl2q5kzmuGGDSoIPsnOAI), [x86-64](https://mega.nz/file/2RIzHYQB#wDlGyULJ_QfWUEfgV8G66SRukoLtzKUZSImDdBljzUk)
 - Note: you don't have to use this altered version of Element to connect to the TorMatrix server. But it is highly recommended.
@@ -20,7 +20,7 @@ TorMatrix is not affiliated in any way with Vector.IM, TOR, Matrix, Orbot or any
 ## TorMatrix vs Element differences
 - Different application name and icon, so that you can install TorMatrix alongside your regular Element app and tunnel it through Orbot.
 - TorMatrix uses an Onion (TOR) Matrix server by default instead of matrix.org.
-- Analytics disabled and crippled by default.
+- Analytics disabled and crippled.
 - No identity servers, no phoning home to any vector.im or matrix.org hosts unlike the reference client.
 - No relying on Google Play services (it's based on the F-Droid version of Element).
 - No Firebase push services or any external third party connections.
@@ -34,3 +34,14 @@ TorMatrix is not affiliated in any way with Vector.IM, TOR, Matrix, Orbot or any
 - Depending on how popular it gets, registration will likely be limited in the future and inactive accounts will be purged.
 - It is run anonymously and will remain behind an Onion service.
 
+## Installing and using TorMatrix on Android
+- Install Orbot [from Google Play](https://play.google.com/store/apps/details?id=org.torproject.android) or [download from Github directly](https://github.com/guardianproject/orbot/releases) and then install it manually from the .APK file
+- [Download TorMatrix](https://mega.nz/file/yIJnUZpT#EDeK4phU6ff7c0TN3no1ZDLtWyiwTlYhKp9ynsu6m8c)
+- Install TorMatrix (but don't run it yet)
+- Open your Orbot, hit "Start VPN" (or "Connect" in some versions)
+- In Orbot, tap "Choose apps"
+- In the list of apps, tick the checkbox next to "TorMatrix"
+- Now open TorMatrix
+- Choose "Register account" - follow the instructions
+- Once you're registered and signed in, you can create or join groups, invite people
+- The way to reference another user (when inviting to groups or private chats) is: @username:tormatrix
