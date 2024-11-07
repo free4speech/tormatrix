@@ -15,6 +15,9 @@ TorMatrix is not affiliated in any way with Vector.IM, TOR, Matrix, Orbot or any
 - Download from the server's Onion web directly: [Onion Link](http://qghpxemxapancgn5vg6hwcmhssxmq2pbjd6jcsxj7bzuv5az544ybhqd.onion)
 - Note: you don't have to use this altered version of Element to connect to the TorMatrix server. But it is highly recommended.
 
+## Compiling
+- Visit the [tormatrix-android](https://github.com/free4speech/tormatrix-android) repository (forked Element) to clone and compile it yourself.
+
 ## Element? Matrix? Tor? Orbot? What are these?
 - Element is a chat application for your phone, similar to Viber, Telegram, Session, etc. You can send messages, photos and videos to people and groups. The client supports end-to-end encryption. You can connect to any Matrix server using Element.
 - Matrix is software which runs on a server (you can self-host your chat groups and data) and is responsible for serving the database with the chats and media.
