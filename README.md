@@ -7,7 +7,7 @@ This TorMatrix repository was created for the following purposes:
 TorMatrix is not affiliated in any way with Vector.IM, TOR, Matrix, Orbot or any of the software authors referenced in the document. It is merely a dirty (but working) solution for those who just need a quick and simple way to create a community that is outside the clear web.
 
 ## The information page
-- Please see [http://qghpxemxapancgn5vg6hwcmhssxmq2pbjd6jcsxj7bzuv5az544ybhqd.onion] for the most up-to-date description about the service itself.
+- Please see http://qghpxemxapancgn5vg6hwcmhssxmq2pbjd6jcsxj7bzuv5az544ybhqd.onion for the most up-to-date description about the service itself.
 
 ## Download TorMatrix for Android
 - ### [DOWNLOAD THE UNIVERSAL APK FROM HERE](https://mega.nz/file/yIJnUZpT#EDeK4phU6ff7c0TN3no1ZDLtWyiwTlYhKp9ynsu6m8c)
